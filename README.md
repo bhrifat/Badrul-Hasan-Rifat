@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Badrul Hasan Rifat
+# Badrul Hasan Rifat
 #### Software Engineer | Web Developer
 Performance-driven and results-oriented Yangzhou University Software Engineering student with a proactive attitude and the ability to achieve all assigned targets and objectives. Effective team member with strong intellectual abilities and the capacity to solve difficult problems.
 Experienced in web design and development.
